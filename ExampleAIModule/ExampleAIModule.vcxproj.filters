@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Source\Dll.cpp" />
+    <ClCompile Include="Source\ExampleAIModule.cpp" />
+    <ClCompile Include="Source\BWEM 1.3.1\src\area.cpp">
+      <Filter>BWEM</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\BWEM 1.3.1\src\base.cpp">
+      <Filter>BWEM</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\BWEM 1.3.1\src\bwapiExt.cpp">
+      <Filter>BWEM</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\BWEM 1.3.1\src\bwem.cpp">
+      <Filter>BWEM</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\BWEM 1.3.1\src\cp.cpp">
+      <Filter>BWEM</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\BWEM 1.3.1\src\examples.cpp">
+      <Filter>BWEM</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\BWEM 1.3.1\src\graph.cpp">
+      <Filter>BWEM</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\BWEM 1.3.1\src\gridMap.cpp">
+      <Filter>BWEM</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\BWEM 1.3.1\src\map.cpp">
+      <Filter>BWEM</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\BWEM 1.3.1\src\mapDrawer.cpp">
+      <Filter>BWEM</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\BWEM 1.3.1\src\mapImpl.cpp">
+      <Filter>BWEM</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\BWEM 1.3.1\src\mapPrinter.cpp">
+      <Filter>BWEM</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\BWEM 1.3.1\src\neutral.cpp">
+      <Filter>BWEM</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\BWEM 1.3.1\src\tiles.cpp">
+      <Filter>BWEM</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\BWEM 1.3.1\src\utils.cpp">
+      <Filter>BWEM</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\BWEM 1.3.1\src\winutils.cpp">
+      <Filter>BWEM</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\BWEM 1.3.1\EasyBMP_1.06\EasyBMP.cpp">
+      <Filter>BWEM</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ActionNodeExample.cpp" />
+    <ClCompile Include="Source\behavior_tree\lib\src\ActionNode.cpp">
+      <Filter>behavior_tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\behavior_tree\lib\src\BehaviorTree.cpp">
+      <Filter>behavior_tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\behavior_tree\lib\src\ConditionNode.cpp">
+      <Filter>behavior_tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\behavior_tree\lib\src\ControlNode.cpp">
+      <Filter>behavior_tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\behavior_tree\lib\src\DecoratorNegationNode.cpp">
+      <Filter>behavior_tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\behavior_tree\lib\src\DecoratorRetryNode.cpp">
+      <Filter>behavior_tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\behavior_tree\lib\src\Draw.cpp">
+      <Filter>behavior_tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\behavior_tree\lib\src\Exceptions.cpp">
+      <Filter>behavior_tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\behavior_tree\lib\src\LeafNode.cpp">
+      <Filter>behavior_tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\behavior_tree\lib\src\NodeSemaphore.cpp">
+      <Filter>behavior_tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\behavior_tree\lib\src\ParallelNode.cpp">
+      <Filter>behavior_tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\behavior_tree\lib\src\SelectorNode.cpp">
+      <Filter>behavior_tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\behavior_tree\lib\src\SelectorStarNode.cpp">
+      <Filter>behavior_tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\behavior_tree\lib\src\SequenceNode.cpp">
+      <Filter>behavior_tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\behavior_tree\lib\src\SequenceStarNode.cpp">
+      <Filter>behavior_tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\behavior_tree\lib\src\TreeNode.cpp">
+      <Filter>behavior_tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\behavior_tree\src\main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\ExampleAIModule.h" />
+    <ClInclude Include="Source\BWEM 1.3.1\src\area.h">
+      <Filter>BWEM</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\BWEM 1.3.1\src\base.h">
+      <Filter>BWEM</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\BWEM 1.3.1\src\bwapiExt.h">
+      <Filter>BWEM</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\BWEM 1.3.1\src\bwem.h">
+      <Filter>BWEM</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\BWEM 1.3.1\src\cp.h">
+      <Filter>BWEM</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\BWEM 1.3.1\src\defs.h">
+      <Filter>BWEM</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\BWEM 1.3.1\src\examples.h">
+      <Filter>BWEM</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\BWEM 1.3.1\src\graph.h">
+      <Filter>BWEM</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\BWEM 1.3.1\src\gridMap.h">
+      <Filter>BWEM</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\BWEM 1.3.1\src\map.h">
+      <Filter>BWEM</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\BWEM 1.3.1\src\mapDrawer.h">
+      <Filter>BWEM</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\BWEM 1.3.1\src\mapImpl.h">
+      <Filter>BWEM</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\BWEM 1.3.1\src\mapPrinter.h">
+      <Filter>BWEM</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\BWEM 1.3.1\src\neutral.h">
+      <Filter>BWEM</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\BWEM 1.3.1\src\tiles.h">
+      <Filter>BWEM</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\BWEM 1.3.1\src\utils.h">
+      <Filter>BWEM</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\BWEM 1.3.1\src\winutils.h">
+      <Filter>BWEM</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\BWEM 1.3.1\EasyBMP_1.06\EasyBMP.h">
+      <Filter>BWEM</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ActionNodeExample.h" />
+    <ClInclude Include="Source\behavior_tree\lib\include\ActionNode.h">
+      <Filter>behavior_tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\behavior_tree\lib\include\BehaviorTree.h">
+      <Filter>behavior_tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\behavior_tree\lib\include\ConditionNode.h">
+      <Filter>behavior_tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\behavior_tree\lib\include\ControlNode.h">
+      <Filter>behavior_tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\behavior_tree\lib\include\DecoratorNegationNode.h">
+      <Filter>behavior_tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\behavior_tree\lib\include\DecoratorRetryNode.h">
+      <Filter>behavior_tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\behavior_tree\lib\include\Draw.h">
+      <Filter>behavior_tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\behavior_tree\lib\include\Exceptions.h">
+      <Filter>behavior_tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\behavior_tree\lib\include\LeafNode.h">
+      <Filter>behavior_tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\behavior_tree\lib\include\NodeSemaphore.h">
+      <Filter>behavior_tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\behavior_tree\lib\include\ParallelNode.h">
+      <Filter>behavior_tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\behavior_tree\lib\include\SelectorNode.h">
+      <Filter>behavior_tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\behavior_tree\lib\include\SelectorStarNode.h">
+      <Filter>behavior_tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\behavior_tree\lib\include\SequenceNode.h">
+      <Filter>behavior_tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\behavior_tree\lib\include\SequenceStarNode.h">
+      <Filter>behavior_tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\behavior_tree\lib\include\TreeNode.h">
+      <Filter>behavior_tree</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="BWEM">
+      <UniqueIdentifier>{564e5b2b-94e5-43fe-b7f2-9d3da7e9f0a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="behavior_tree">
+      <UniqueIdentifier>{c7492bdf-c1cc-4aab-b48a-25ac56354751}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Source\BWEM 1.3.1\src\area.h.bak">
+      <Filter>BWEM</Filter>
+    </None>
+    <None Include="Source\BWEM 1.3.1\src\cp.h.bak">
+      <Filter>BWEM</Filter>
+    </None>
+    <None Include="Source\BWEM 1.3.1\src\tiles.h.bak">
+      <Filter>BWEM</Filter>
+    </None>
+    <None Include="Source\BWEM 1.3.1\src\utils.h.bak">
+      <Filter>BWEM</Filter>
+    </None>
+  </ItemGroup>
+</Project>
